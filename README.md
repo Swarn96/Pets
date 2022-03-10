@@ -20,6 +20,4 @@
 # Screenshots 
 
 <!-- < img src="https://user-images.githubusercontent.com/84777521/155711985-ebd5df07-0014-46bf-ba7b-1e6cccaf2406.jpg"  width="100"> -->
-   ![pets 1](https://user-images.githubusercontent.com/84777521/155711985-ebd5df07-0014-46bf-ba7b-1e6cccaf2406.jpg)
-   ![pets 2](https://user-images.githubusercontent.com/84777521/155711997-4ef0d91e-6574-4aa4-8ee6-42f7b78cc7e7.jpg)
-   ![pets 3](https://user-images.githubusercontent.com/84777521/155712006-7fcbf751-32bd-4e8f-9adf-32e509479f03.jpg)
+   <img src="https://user-images.githubusercontent.com/84777521/155711985-ebd5df07-0014-46bf-ba7b-1e6cccaf2406.jpg" width="400" height="700"> <img src="https://user-images.githubusercontent.com/84777521/155711997-4ef0d91e-6574-4aa4-8ee6-42f7b78cc7e7.jpg" width="400" height="700"><img src="https://user-images.githubusercontent.com/84777521/155712006-7fcbf751-32bd-4e8f-9adf-32e509479f03.jpg" width="400" height="700">
