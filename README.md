@@ -16,6 +16,12 @@
   * The user can add dummy data for reference purposes.
   
   * The app also uses CursorLoader Class for efficient use of resources.
+  
+  # LIVE DEMO
+  Pets app here [here](https://appetize.io/app/5jjcwjehpwyuhffa3kn7gghwqm?device=nexus5&osVersion=8.1&scale=75)
+  
+  # DOWNLOAD
+  
 
 # Screenshots 
 
