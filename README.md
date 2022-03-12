@@ -21,7 +21,7 @@
   Pets app here [here](https://appetize.io/app/5jjcwjehpwyuhffa3kn7gghwqm?device=nexus5&osVersion=8.1&scale=75)
   
   # DOWNLOAD
-  
+  ===>[:iphone:](https://drive.google.com/file/d/1gM1MRi0QcghfgnBqlKxbR5R0uPrgJEIQ/view?usp=sharing)
 
 # Screenshots 
 
